@@ -3,8 +3,8 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "python",
-    "MyStorageConnectionAppSetting": "DefaultEndpointsProtocol=https;AccountName=storageaccountshellai;AccountKey=xrR6hkqbMJewfg2ZxR9G9auX1ghh9vjJyXFolPfmaVAmvIsbFf1CgzeVs8ZElNMUX9vsCyh9NduQaxQuS4uU7A==;EndpointSuffix=core.windows.net",
-    "LandingStorageConnectionAppSetting": "DefaultEndpointsProtocol=https;AccountName=amlpocwsstorage;AccountKey=8tGX0WVncm1DQU3bdRDL3hLtoP6XBN0uUi8Q2AcMxL5YVId8gvgTE0gHkCPdi29ErSunmS3/isyfuKJoTbPcfA==;EndpointSuffix=core.windows.net",
+    "MyStorageConnectionAppSetting": "xxxx",
+    "LandingStorageConnectionAppSetting": "xxxx",
     "storageaccount":"daadft"
   
   }
